@@ -21,4 +21,7 @@ This project aims to predict the probability of admission to a university based 
 
 4. **Deployment:**
    - Deployed the model using **Flask** to create a simple web application that predicts the probability of admission based on user input.
+   -
+   - ![flask deployment](https://github.com/user-attachments/assets/d37855d0-22f4-475a-82b4-e9ac68972cab)
+
 
